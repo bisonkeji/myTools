@@ -1,3 +1,0 @@
-<?php 
-echo "test2";
-echo "test 222";
