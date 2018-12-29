@@ -1,0 +1,10 @@
+//主键操作
+先删除主键
+alter table `table_name` drop primary key;
+然后再增加主键
+alter table `table_name` add primary key(`id`);
+或者
+alter table `table_name` add primary key(`id`,`name`);
+
+
+
